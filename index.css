@@ -1,0 +1,13 @@
+header {
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+ 
+div.logo {
+  text-align: right;
+}
+
+div.logo img {
+  text--align: left;
+}
