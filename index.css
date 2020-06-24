@@ -1,13 +1,12 @@
-header {
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-}
- 
 div.logo {
-  text-align: right;
+  padding 30px;
+  text-align: center;
 }
 
 div.logo img {
-  text--align: left;
+  text-align: left;
+}
+
+div.logotext {
+  text-align: right;
 }
